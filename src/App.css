@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  margin-top: 20px;
+}
+
+video {
+  width: 80%;
+  max-width: 800px;
+  margin-top: 20px;
+}
+
+nav a {
+  margin: 10px;
+  text-decoration: none;
+  color: blue;
+}
+
+.lazy-components {
+  margin-top: 20px;
+}
